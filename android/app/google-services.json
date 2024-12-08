@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740932927299",
+    "project_id": "flutteraitextextractor",
+    "storage_bucket": "flutteraitextextractor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740932927299:android:c7cab3f3baeedf8d2bb9f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ai_text_extractor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWRfcNCmbyS4nUGJaF-diDrY6Gch9Z2Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
